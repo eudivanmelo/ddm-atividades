@@ -4,7 +4,7 @@ Repositório criado para publicar as atividades da disciplina de Desenvolvimento
 
 ## Atividades
 
-- [Atividade de Flex](atividade-de-flex/README.md)
+- [Atividade de Flex](atividade-de-flex/)
 
 ## Objetivo
 
