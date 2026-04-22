@@ -8,13 +8,14 @@ import {
   Text,
   View,
 } from "react-native";
+import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 import { Question1 } from "./src/screens/Question1";
 import { Question2 } from "./src/screens/Question2";
 import { Question3 } from "./src/screens/Question3";
 import { Question4 } from "./src/screens/Question4";
 import { Question5 } from "./src/screens/Question5";
 import { Question6 } from "./src/screens/Question6";
-import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
+
 
 type ScreenId = 1 | 2 | 3 | 4 | 5 | 6;
 
